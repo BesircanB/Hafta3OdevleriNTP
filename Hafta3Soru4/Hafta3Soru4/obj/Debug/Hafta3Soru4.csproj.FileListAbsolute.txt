@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\Hafta3Soru4\Hafta3Soru4\bin\Debug\Hafta3Soru4.exe.config
+C:\Users\Beşir Can\source\repos\Hafta3Soru4\Hafta3Soru4\bin\Debug\Hafta3Soru4.exe
+C:\Users\Beşir Can\source\repos\Hafta3Soru4\Hafta3Soru4\bin\Debug\Hafta3Soru4.pdb
+C:\Users\Beşir Can\source\repos\Hafta3Soru4\Hafta3Soru4\obj\Debug\Hafta3Soru4.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\Hafta3Soru4\Hafta3Soru4\obj\Debug\Hafta3Soru4.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Hafta3Soru4\Hafta3Soru4\obj\Debug\Hafta3Soru4.exe
+C:\Users\Beşir Can\source\repos\Hafta3Soru4\Hafta3Soru4\obj\Debug\Hafta3Soru4.pdb

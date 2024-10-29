@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\Hafta3Soru7\Hafta3Soru7\bin\Debug\Hafta3Soru7.exe.config
+C:\Users\Beşir Can\source\repos\Hafta3Soru7\Hafta3Soru7\bin\Debug\Hafta3Soru7.exe
+C:\Users\Beşir Can\source\repos\Hafta3Soru7\Hafta3Soru7\bin\Debug\Hafta3Soru7.pdb
+C:\Users\Beşir Can\source\repos\Hafta3Soru7\Hafta3Soru7\obj\Debug\Hafta3Soru7.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Hafta3Soru7\Hafta3Soru7\obj\Debug\Hafta3Soru7.exe
+C:\Users\Beşir Can\source\repos\Hafta3Soru7\Hafta3Soru7\obj\Debug\Hafta3Soru7.pdb
